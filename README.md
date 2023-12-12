@@ -5,7 +5,7 @@ This repository contains an html file and two datasets for the introduction of d
 
 This course covers mainly the use of R packages ggplot2 to create effective and visually appealing data visualizations. Topics include generating scatter plots, boxplots, line graphs, bar plots, and histograms; customizing visuals with labels, colors, and themes; creating publication-ready plots, adding descriptive statistics and p-values on your graphs, and saving plots in various formats. 
 
-**Click [here](https://sanarb.github.io/Data_Visualization_with_R.html) to access the course on Data Visualisation**
+**Click [here](https://sanarb.github.io/Data_Visualization_with_R.html) to access the course on Data Visualization**
 
 ## Datasets
 
