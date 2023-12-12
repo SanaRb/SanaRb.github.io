@@ -1,8 +1,11 @@
-# SanaRb.github.io
+# Data Visualization Using R 
+by **Sana Rebbah, biostatistician**
 
-# Data Visualization Using R by Sana Rebbah, biostatistician
+This repository contains an html file and two datasets for the introduction of data visualization using R.
 
-This repository contains an html file and two datasets for the introduction of data visualization using R, focusing on the ggplot2 package.
+This course covers mainly the use of R packages ggplot2 to create effective and visually appealing data visualizations. Topics include generating scatter plots, boxplots, line graphs, bar plots, and histograms; customizing visuals with labels, colors, and themes; creating publication-ready plots, adding descriptive statistics and p-values on your graphs, and saving plots in various formats. 
+
+**Click [here](https://sanarb.github.io/Data_Visualization_with_R.html) to access the course on Data Visualisation**
 
 ## Datasets
 
@@ -11,7 +14,7 @@ heart_dataset: A comprehensive dataset for heart disease research.
 oasis_main: A detailed dataset for brain imaging studies.
 
 ## Requirements  
-R (version 4.2.0 or higher) and Rstudio
+R (version 4.2.0 or higher) 
 
 ## Usage  
 Refer to the html file for step-by-step instructions on data visualization techniques using these datasets.
