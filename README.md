@@ -9,9 +9,9 @@ This course covers mainly the use of R package ggplot2 to create effective and v
 
 ## Datasets
 
-heart_dataset: A dataset for heart disease research.
+heart_dataset: dataset for heart disease research.
 
-oasis_main: A dataset for brain imaging studies.
+oasis_main: dataset for brain imaging studies.
 
 ## Requirements  
 R (version 4.2.0 or higher) 
