@@ -16,5 +16,3 @@ oasis_main: A detailed dataset for brain imaging studies.
 ## Requirements  
 R (version 4.2.0 or higher) 
 
-## Usage  
-Refer to the html file for step-by-step instructions on data visualization techniques using these datasets.
