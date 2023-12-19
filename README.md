@@ -14,5 +14,5 @@ heart_dataset: dataset for heart disease research.
 oasis_main: dataset for brain imaging studies.
 
 ## Requirements  
-R (version 4.2.0 or higher) 
+R  (to download : https://www.r-project.org/)
 
